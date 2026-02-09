@@ -1,0 +1,43 @@
+body
+{
+    background: grey;
+    display:flexbox;
+    text-align:center
+    
+}
+h1{
+    background: rgb(209, 205, 205);
+    border-color: aliceblue, 10px;
+    
+}
+hgroup{
+    display:flex;
+    gap: 80px;
+    text-align: center;
+    justify-content: center;
+    background: rgb(225, 222, 220);
+    text-emphasis-color:brown;
+}
+a{
+    border: 2px solid black;
+    padding: 10px 16px;
+    text-decoration: none;   
+    border-radius: 6px;
+    background-color: rgb(219, 178, 168);      
+}
+#home{
+    width: 400px;
+    height: auto;
+}
+#C{
+    width: 400px;
+    height: auto;
+}
+#java{
+    width: 400px;
+    height: auto;
+}
+#python{
+    width: 400px;
+    height: auto;
+}
