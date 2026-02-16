@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&display=swap');
+
+
+
+
+h1{
+   color: blue;
+   font-family: 'Courier New', Courier, monospace;
+}
+body{
+   text-align: center;
+   background-image:url("img/images.jpeg");
+   height: 500px;
+}
+
+
+
+#guessBtn {
+   background-color: grey;
+   font-family: 'Bitcount Single', monospace;
+}
+h1 {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+ h2 {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+
+ #resetBtn {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+ #tries {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+ #feedback {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+ div{
+    background-color: grey;
+ }
+ #guesses {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+ #winLoose {
+    background-color: grey;
+    font-family: 'Bitcount Single', monospace;
+ }
+#bar{
+   background-color: rgb(227, 227, 219);
+}
+
+
+#guessedNumbers {
+   background-color: grey;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+#guessedNumbers {
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ 
